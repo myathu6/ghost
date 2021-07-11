@@ -56,10 +56,7 @@ fi
 sleep 0.5
 clear
 sleep 0.5
-cd ~/ghost
-echo
-cat banner/banner.txt
-echo
+
 
 sleep 1
 echo -e ""$GN"["$RS"+"$GN"]"$CE" Installing dependencies..."$C""
